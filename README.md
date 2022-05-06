@@ -38,7 +38,7 @@ As variáveis estatisticamente  relevantes para a regressão foram a temperatura
 
 
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\relação_variaveis.png)
+![](relação_variaveis.png)
 
 
 
@@ -48,7 +48,7 @@ Logo, a temperatura se mostrou mais relevante que as demais, seu impacto é 5 ve
 
 Implementando o modelo de regressão com a Catboost.
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\distribuição das previsões.png)
+![](distribuição das previsões.png)
 
 O RMSE da previsão foi 0,26 segundos. O desvio padrão da previsão foi 0,055 segundos, e desvio padrão dos resultados foi 0,26, portanto o modelo não conseguiu prever 0,20 segundos dos resultados. Observando o desvio padrão, o modelo conseguiu prever somente 0,055, ou seja cerca de 5,5 décimos, não parece muito pouco, mas os recordes são decididos exatamente nessa casa
 
@@ -56,7 +56,7 @@ O RMSE da previsão foi 0,26 segundos. O desvio padrão da previsão foi 0,055 s
 
  Vejamos os campeonatos  campeonatos mundiais entre 1983 e 2009: 
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\campeonatos_mundiais.png)
+![](campeonatos_mundiais.png)
 
 Perceba na imagem acima que entre 1991 e 1993, Linfor Chistie não bateu o record de Lewis por 0,02 decimos! 
 
@@ -66,7 +66,7 @@ Perceba na imagem acima que entre 1991 e 1993, Linfor Chistie não bateu o recor
 
 A temperatura, como impacta? 
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\temperatura.png)
+![](temperatura.png)
 
 
 
@@ -76,7 +76,7 @@ Observamos que corredores tem melhor performance entre 15 e 25 graus. Se houver 
 
 A  humidade, como impacta? 
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\humidade.png)
+![](humidade.png)
 
 
 
@@ -86,7 +86,7 @@ Corredores tem melhor performance por volta dos 70% de humidade. Se houver algu�
 
 A velocidade do vento , como impacta? 
 
-![](C:\Users\andre.nunes\OneDrive\Documentos\ironhack\projeto\ProjetoFinal\velocidadeVento.png)
+![](velocidadeVento.png)
 
 Impacta bem, tanto que  é bem controlado pela Organização mundial de Atletismo, no máximo 2 m/s contra ou a  favor para considerar-se um record. Esse é vento do *data set* foi aferido na cidade, não especificamente na prova. 
 
