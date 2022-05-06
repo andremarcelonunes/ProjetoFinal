@@ -34,7 +34,7 @@ O que queremos prever é o resultado médio através de uma regressão.  Contudo
 
 ## ANÁLISE E RESULTADOS
 
-As variáveis estatisticamente  relevantes para a regressão foram a temperatura, humidade e velocidade do vento e  aqui está relação entre elas:
+As variáveis estatisticamente  relevantes para a regressão foram a temperatura, umidade e velocidade do vento e  aqui está relação entre elas:
 
 
 
@@ -42,7 +42,7 @@ As variáveis estatisticamente  relevantes para a regressão foram a temperatura
 
 
 
-Logo, a temperatura se mostrou mais relevante que as demais, seu impacto é 5 vezes maior em relação a velocidade do vento e 10 vezes em relação a humidade. 
+Logo, a temperatura se mostrou mais relevante que as demais, seu impacto é 5 vezes maior em relação a velocidade do vento e 10 vezes em relação a umidade. 
 
 
 
@@ -74,13 +74,13 @@ Observamos que corredores tem melhor performance entre 15 e 25 graus. Se houver 
 
 
 
-A  humidade, como impacta? 
+A  Umidade, como impacta? 
 
 ![](humidade.png)
 
 
 
-Corredores tem melhor performance por volta dos 70% de humidade. Se houver alguém tão bom  quanto o Usain Bolt, eu poderia arriscar  que quebraria o record nessa condição. 
+Corredores tem melhor performance por volta dos 70% de umidade. Se houver alguém tão bom  quanto o Usain Bolt, eu poderia arriscar  que quebraria o record nessa condição. 
 
 
 
