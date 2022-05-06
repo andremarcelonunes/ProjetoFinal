@@ -20,7 +20,7 @@ Como não havia um *data set* pronto, foi necessário recorrer ao site da organi
 
 
 
-Nesse repositório é possivel encontrar o [script](sql/criacao_base.sql) de criação da base de dados, ele está na pasta sql.  Para popular a base use o notebook [atualizacao_base](atualizacao_base.ipynb). Este contém toda a lógica do *scrapping.*  O esquema abaixo, resume essa extração:
+Nesse repositório é possivel encontrar o [script](criacao_base.sql) de criação da base de dados nesse mesmo repositório.  Para popular a base use o notebook [atualizacao_base](atualizacao_base.ipynb). Este contém toda a lógica do *scrapping.*  O esquema abaixo, resume essa extração:
 
 ![img](https://lh6.googleusercontent.com/kZIpS5ESORiP2lmGlr2LsGOn-EcrFQATeZQit9-bTiSNP89Iebbbpj_4gPeUQHfztjTQ8s1M6-9i-JHMX1uYPqwDlBpi0UbNoUrqKwpVfrBMJNpV8ILJEWVoEAQ_SlhqKssCFiwP7LH3R7WPeJsNKw)
 
