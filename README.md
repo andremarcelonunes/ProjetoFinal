@@ -50,7 +50,7 @@ Implementando o modelo de regressão com a Catboost.
 
 ![](distribuição das previsões.png)
 
-O RMSE da previsão foi 0,26 segundos. O desvio padrão da previsão foi 0,055 segundos, e desvio padrão dos resultados foi 0,26, portanto o modelo não conseguiu prever 0,20 segundos dos resultados. Observando o desvio padrão, o modelo conseguiu prever somente 0,055, ou seja cerca de 5,5 décimos, não parece muito pouco, mas os recordes são decididos exatamente nessa casa
+O RMSE da previsão foi 0,26 segundos. O desvio padrão da previsão foi 0,055 segundos, e desvio padrão dos resultados foi 0,26, portanto o modelo não conseguiu prever 0,20 segundos dos resultados. Observando o desvio padrão, o modelo conseguiu prever somente 0,055, ou seja cerca de 5,5 centésimos, não parece muito pouco, mas os recordes são decididos exatamente nessa casa
 
 
 
