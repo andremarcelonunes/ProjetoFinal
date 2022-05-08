@@ -5,7 +5,7 @@
 ### OBJETIVOS 
 
 Entender os efeitos climáticos em provas de atletismos, mas especificamente nas provas de 100 metros rasos masculina. O principal objetivo é encontrar um modelo que faça uma previsão dos resultados médios das provas e chegar a algumas conclusões sobre esses efeitos. 
-
+!(https://media.giphy.com/media/l3vQX4tXkLa1PTZ2U/giphy.gif)
 ### Motivação
 
 Como amante da corrida e corredor, quero entender como essas varáveis impactam  em atletas de alta performance. 
