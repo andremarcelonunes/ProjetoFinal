@@ -1,0 +1,49 @@
+slide 1
+Bom, como o próprio slide propõe,  vou tentar encontrar um modelo para explicar o  impacto das variáveis climáticas, independentes  no resultado médio das  provas de 100 metros, tomando os 5 melhores tempos de cada uma para calcular essa média. Para as provas masculinas.
+
+slide 2
+Minha motivação para esse estudo,  foi que ao começar a correr uns 4 anos atrás, sempre me intrigou a performance dos atletas,   biotipo,  condicionamento, vo2, passadas e todas essas coisas que os corredores falam entre si. Mas, percebi que tinha em dias de frio era mais complicado pelo menos pra mim, e correr em São Paulo e Rio fazia diferença., seria a pressão atmosférica?
+
+slide 3
+Antes de sairmos para análise desses variáveis, vale explicar que esses dados não existiam organizados, foi necessário um esforço de scrapping e leituras de api para um banco de dados, e por fim, um data set que hoje existe no kaggle, a base contém todas as provas de 100 metros.
+
+slide 4
+Como podemos ver, algumas variáveis não tem relevância estatistica e a temperatura tem maior impacto na variação do resultado. Para cada grau positivo, reduz -0,0145 segundos no resultado médio. 
+
+
+slide 5
+Para avaliar o impacto fiz uma simulação das variáveis que iam do limite inferior até o superior dos seus valores no dataset, coloquei 10% pra cima e pra baixo. E fui buscando previsões nos modelos fitados de regressão e CATboost.
+Pois bem, primeiros vejamos o impacto da temperatura. Usei dois métodos regressivos basicamente, linear que a curva laranja é o catboost que é essa coloridinha  a gente nota uma concentração 50% dos dados nesse intervalo em que o caboost fez as previsão  parece que correr num lindo dia de primavera é  melhor
+
+slide 6
+Da mesma forma, aqui na unidade dias de 70%  indica que teremos os melhores resultados. Também temos um concentração de dados aqui jo boxplot
+
+
+slide 7
+Agirá essa última variável é   bem controlada pela própria organização de atletismo, o vento.  Esse vento que obtive é  da cidade e não na prova. A organização só reconhece recordes em velocidade de ventos de até 2m/s
+Parece que ter esse evento a favor ajuda muito.
+
+
+slide 8
+Por fim, como isso afeta nossas previsões 
+Vamos olhar o rmse de 0,26 segundos  e olhando o desvio padrão, eu erro 0,20 segundo e por consequência acerto 0,05 segundo. Parece pouco, mas é  nesse casa que atualmente as coisas estão sendo decididas.
+
+slide 9 
+Diríamos que alguém com o mesmo tamanho de passada,  frequência de passos do bolt  e tempo de reação médio (pois do bolt não era tão bom). Naquele dia de primavera com uns 20 graus, umidade 70% e um ventinho a favor de 2 m/s, poderia bater o record.
+É um esporte cheio de detalhes desde do primeiro record até o último, foi conquistado 1 segundo.
+Logo, depende muito de outros fatores, mas já ajuda em uma parte desse tempo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
