@@ -5,7 +5,7 @@
 ### OBJETIVOS 
 
 Entender os efeitos climáticos em provas de atletismos, mas especificamente nas provas de 100 metros rasos masculina. O principal objetivo é encontrar um modelo que faça uma previsão dos resultados médios das provas e chegar a algumas conclusões sobre esses efeitos. 
-!(https://media.giphy.com/media/l3vQX4tXkLa1PTZ2U/giphy.gif)
+!![](https://media.giphy.com/media/l3vQX4tXkLa1PTZ2U/giphy.gif)
 ### Motivação
 
 Como amante da corrida e corredor, quero entender como essas varáveis impactam  em atletas de alta performance. 
@@ -94,9 +94,10 @@ As provas melhores aconteceram com ventos entre 20  e 30km/h. Nesse quesito, com
 
 Existem muitos fatores que contribuem para o resultado da prova: genéticos, periodização do treinamento, tempo de reação, etc.  O tempo médio em provas de atletas de performance são muito parecidos. Logo, não é possível afirmar que um atleta  correrá mais rápido só por que aumentou a temperatura. Alias, afirmar algo em uma prova antes de acontecer é bem complexo, principalmente em provas de atletismo. 
 
-Isto posto,  esses são os parâmetros climáticos  para arriscar o resultado de uma prova,  todo décimo conta. 
+Isto posto,  esses são os parâmetros climáticos  para arriscar o resultado de uma prova,  todo décimo conta. E reserve 9,68 segundos para assitir o fenômeno. 
 
 
+!![](https://media.giphy.com/media/ctOePPWSU91mM/giphy.gif)
 
 ## Saídas
 
